@@ -2,7 +2,7 @@
 
 This repository makes available the source texts of stories from [Little Cree Books](http://littlecreebooks.com/) in Markdown format. The stories are written in Plains Cree, Swampy Cree, and English.
 
-The collection is significant because it is, as far as we are aware, the first and only collection of open-licensed stories in an Indigenous Canadian language. It thus represents an incredibly valuable and lasting contribution to human knowledge whose preservation will not be threatened by the restrictions copyright.
+The collection is significant because it is, as far as we are aware, the first and only collection of open-licensed stories in an Indigenous Canadian language. It thus represents an incredibly valuable and lasting contribution to human knowledge whose preservation will not be threatened by the restrictions of copyright.
 
 All of the source texts have been extracted from pdfs available on the [Little Cree Books](http://littlecreebooks.com/) website. The markdown files in this repo provide data for many other projects, as well as making possible the creation of bilingual storybooks in many languages.
 

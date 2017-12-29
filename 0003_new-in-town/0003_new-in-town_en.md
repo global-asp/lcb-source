@@ -33,7 +33,7 @@ I have to go with my mom so she can fill out some forms.
 
 The New in Town lady helps us take a big blue bus.
 
-There are so many people that we have to stand on the bus while it's moving!s
+There are so many people that we have to stand on the bus while it's moving!
 
 ##
 My auntie takes me and my mom to Family Night at a school near her house.
